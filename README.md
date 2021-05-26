@@ -30,9 +30,7 @@ Resources:
 #### Async
 
 Exercises:
-
-- [Battleship: CLI](https://codesandbox.io/s/battleship-cli-pfgwx)
-- [(Battleship: api)](https://codesandbox.io/s/battleship-api-vwuih)
+- [Battleship: CLI](https://github.com/zl-david/2021-06-01-battleship-start)
 
 # CSS
 
