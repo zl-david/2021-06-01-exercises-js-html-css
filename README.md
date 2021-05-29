@@ -34,4 +34,19 @@ Exercises:
 
 # CSS
 
+Flexbox games
+
+- [http://www.flexboxdefense.com/](http://www.flexboxdefense.com/)
+- [https://flexboxfroggy.com/](https://flexboxfroggy.com/)
+
+Exercises
+
+- [https://github.com/zl-david/2021-06-01-css-dom-exercise](https://github.com/zl-david/2021-06-01-css-dom-exercise)
+
+Resources
+
+- [https://codepen.io/justd/full/yydezN/](https://codepen.io/justd/full/yydezN/)
+- [https://flexbox.help/](https://flexbox.help/)
+- [http://flexbox.buildwithreact.com/](http://flexbox.buildwithreact.com/)
+
 # HTML
