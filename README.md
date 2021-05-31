@@ -49,4 +49,3 @@ Resources
 - [https://flexbox.help/](https://flexbox.help/)
 - [http://flexbox.buildwithreact.com/](http://flexbox.buildwithreact.com/)
 
-# HTML
